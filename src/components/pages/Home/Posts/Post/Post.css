@@ -1,0 +1,13 @@
+.home-post .img-overlay {
+  border-radius: 8px;
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0.13) 0%,
+    rgba(0, 0, 0, 0.59) 42.43%,
+    rgba(0, 0, 0, 0.59) 58.27%
+  );
+}
+
+.home-post .commit-btn {
+  background: linear-gradient(180deg, #f99807 0%, #fbbc05 100%);
+}

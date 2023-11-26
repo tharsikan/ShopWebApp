@@ -1,0 +1,20 @@
+#main-layout-sidebar a .right-arrow {
+  opacity: 0;
+}
+
+#main-layout-sidebar a.active .right-arrow {
+  opacity: 1;
+}
+
+#main-layout-sidebar a.active {
+  background-color: #fff;
+  color: #28292b;
+}
+
+#main-layout-sidebar a.active .text-white {
+  color: #28292b;
+}
+
+#main-layout-sidebar  {
+
+}
